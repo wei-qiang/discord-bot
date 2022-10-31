@@ -1,0 +1,6 @@
+.idea/
+!.idea/codeStyles/
+*.iml
+target/
+report/
+http/**/responses
